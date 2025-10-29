@@ -1,0 +1,3 @@
+u=int(input("Units: "))
+b=u*5
+print("Bill:",b)
