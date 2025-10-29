@@ -1,4 +1,4 @@
  u=int(input("Units: "))
  b=u*5
  if b>1000:b-=b*0.1
- print("Final Bill:",b)
+
